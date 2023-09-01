@@ -1,0 +1,13 @@
+.rodape{
+    background-color: rgb(174, 173, 253);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 5%;
+}
+.info{
+    background-color: rgba(240, 248, 255, 0.521);
+    border-radius: 50%;
+    padding: 3%;
+}
+    

@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Lobster&display=swap');
+
+:root{
+    --font-caprasimo: "Caprasimo";
+    --txt-large: 40px;
+    --txt-medium: 20px;
+    --txt-small: 16px;
+    --color-black: black;
+    --color-white: white;
+}

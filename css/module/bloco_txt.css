@@ -1,0 +1,12 @@
+.bloco_txt{
+    background-color: rgb(253, 200, 120);
+    display: block;
+    text-align: center;
+    margin-top: 5%;
+    padding: 2%;
+    border-radius: 20%;
+}
+h2{
+    margin: 2%;
+}
+
